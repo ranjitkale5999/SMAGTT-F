@@ -5,8 +5,10 @@ function App() {
 
   return (
     <>
-       <h1>welcome to smagtt</h1>
-    
+       
+       <h1 className="text-3xl font-bold underline">
+       welcome to smagtt
+    </h1>
     </>
   )
 }
